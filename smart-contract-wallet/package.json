@@ -1,0 +1,14 @@
+{
+  "name": "hardhat-project",
+  "type": "module",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^4.0.1",
+    "uniswap": "^0.0.1"
+  }
+}
